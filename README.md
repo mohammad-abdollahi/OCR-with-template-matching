@@ -3,8 +3,8 @@ Using noise reduction and template matching technique to sum up numbers in noisy
 
 Sample input : 
 
-[!img](https://github.com/mohammad-abdollahi/OCR-with-template-matching/blob/master/sample_input.png)
+![img](https://github.com/mohammad-abdollahi/OCR-with-template-matching/blob/master/sample_input.png)
 
 Sample output : 
 
-[!img](https://github.com/mohammad-abdollahi/OCR-with-template-matching/blob/master/sample_output.png)
+![img](https://github.com/mohammad-abdollahi/OCR-with-template-matching/blob/master/sample_output.png)
